@@ -1,0 +1,10 @@
+creating phishing link using zphisher
+we are currently in our home directory 
+cd Desktop (enter in Desktop)
+ls ( to view contents of desktop)
+git clone https://github.com/htr-tech/zphisher.git (to clone the zphisher in terminal)
+ls Desktop
+cd zphisher
+ls ( to view contents of zphisher and look for zphisher.sh)
+bash zphisher.sh
+
