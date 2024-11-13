@@ -1,0 +1,10 @@
+exploit db - search for cve(common vulnerability and exposure) 
+cve numbers provided to every vul.
+CVE-YEAR-NUMBER
+LINUX
+echo -  to print output
+who am i -username
+ls	listing
+cd	change directory
+cat	concatenate(contents of a file)
+pwd	print working directory
