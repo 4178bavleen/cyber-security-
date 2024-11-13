@@ -8,3 +8,5 @@ ls	listing
 cd	change directory
 cat	concatenate(contents of a file)
 pwd	print working directory
+find - find any file anywhere       //find -name passwords.txt
+grep - grep file u want to search  //grep "jo search krna h" filename
