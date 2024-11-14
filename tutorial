@@ -10,3 +10,6 @@ cat	concatenate(contents of a file)
 pwd	print working directory
 find - find any file anywhere       //find -name passwords.txt
 grep - grep file u want to search  //grep "jo search krna h" filename
+&operator - allows to operate command in background of terminal
+&& - to use multiple cmds in one line
+> - redirect operator , >> same redirect but doesnt replace adds on
